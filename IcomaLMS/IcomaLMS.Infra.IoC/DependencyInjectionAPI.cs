@@ -1,7 +1,6 @@
 ﻿namespace IcomaLMS.Infra.IoC
 {
-    public class Class1
+    public class DependencyInjectionAPI
     {
-
     }
 }

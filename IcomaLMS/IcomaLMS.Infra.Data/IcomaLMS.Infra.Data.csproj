@@ -20,4 +20,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IcomaLMS.Domain\IcomaLMS.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

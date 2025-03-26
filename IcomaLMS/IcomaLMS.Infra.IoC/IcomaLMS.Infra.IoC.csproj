@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IcomaLMS.Application\IcomaLMS.Application.csproj" />
+    <ProjectReference Include="..\IcomaLMS.Domain\IcomaLMS.Domain.csproj" />
+    <ProjectReference Include="..\IcomaLMS.Infra.Data\IcomaLMS.Infra.Data.csproj" />
+  </ItemGroup>
+
 </Project>
